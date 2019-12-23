@@ -4,3 +4,6 @@ match_block_trailing_comma = true
 wrap_comments = true
 edition = "2018"
 error_on_line_overflow = true
+use_small_heuristics = "Max"
+merge_derives = false
+version = "Two"
