@@ -1,7 +1,7 @@
 ---
 name: Internal Compiler Error
 about: Create a report for an internal compiler error in Clippy.
-labels: L-bug :beetle:, L-crash :boom:
+labels: L-bug, L-crash
 ---
 <!--
 Thank you for finding an Internal Compiler Error! 🧊  If possible, try to provide
